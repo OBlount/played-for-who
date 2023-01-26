@@ -1,0 +1,8 @@
+# Python Venv
+venv/
+
+# Environment Vars
+.env
+
+# Misc
+__pycache__/
